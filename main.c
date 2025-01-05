@@ -20,7 +20,7 @@ const float initialRotation = 0.0f;
 const float initialZoom = 5.0f;
 
 // Texture
-const int MAX_TEXTURES = 1
+const int MAX_TEXTURES = 1;
 typedef enum
 {
     TEXTURE_TILEMAP = 0
@@ -46,7 +46,7 @@ typedef struct
 sEntity player;
 
 // Audios
-const int MAX_SOUNDS = 1
+const int MAX_SOUNDS = 1;
 typedef enum
 {
     SOUNDTRACK_AUDIO = 0
